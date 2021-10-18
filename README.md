@@ -2,7 +2,7 @@
 - 👀 I’m interested in Energy, Blockchain and Data in general
 - 🌱 I’m currently learning Solidity, Javascript, React and Python
 - 💞️ I’m looking to collaborate on DeFi, NFT and all sort of food/animal-themed crypto
-- 📫 How to reach me : mehdi.mouzouni@gmail.com
+- 📫 How to reach me : LinkedIn
 
 <!---
 MouzouniElMehdi/MouzouniElMehdi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
